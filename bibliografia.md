@@ -6,9 +6,9 @@ el tema en un solo sitio y de manera organizada.
 
 ##1. [Tratado de libre Comercio](http://www.tlc.gov.co/publicaciones.php?id=727)
 
-###1.1 [Capítulo Catorce: Telecomunicaciones](http://www.tlc.gov.co/descargar.php?id=59292)
-###1.2 [Capítulo Quince: Comercio Electrónico](Entendimiento sobre Biodiversidad y conocimientos tradicionales)
-###1.3 [Capítulo Dieciséis: Derechos de Propiedad Intelectual](http://www.tlc.gov.co/descargar.php?id=59298)
+__1.1 [Capítulo Catorce: Telecomunicaciones](http://www.tlc.gov.co/descargar.php?id=59292)__
+__1.2 [Capítulo Quince: Comercio Electrónico](Entendimiento sobre Biodiversidad y conocimientos tradicionales)__
+__1.3 [Capítulo Dieciséis: Derechos de Propiedad Intelectual](http://www.tlc.gov.co/descargar.php?id=59298)__
 * [Carta Adjunta sobre ciertos productos regulados](http://www.tlc.gov.co/descargar.php?id=59294)
 * [Carta Adjunta sobre Patentes y ciertos productos regulados](http://www.tlc.gov.co/descargar.php?id=59296)
 * [Carta Adjunta ISP](http://www.tlc.gov.co/descargar.php?id=59295)
